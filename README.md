@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/12CvvlXuLs9ITIDjMSTrWTltLqQwEjvhR?authus
 
 ### Option 2: Local Setup
 ```bash
-git clone https://github.com/yourusername/indian-legal-llm-qwen.git
+git clone https://github.com/SabihaKhanum/indian-legal-llm-qwen.git
 cd indian-legal-llm-qwen
 pip install -r requirements.txt
 python scripts/run_inference.py --question "What is Section 302 of IPC?"
